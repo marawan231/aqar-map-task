@@ -1,8 +1,7 @@
 # AqarMap-Task
 
 
-## Link For Apk 
-https://drive.google.com/drive/folders/10a5L_YZ7TUoti9lKMxCvoWl2lZWrurUB?usp=sharing
+
 ## Demo For Ios 
 [https://github.com/marawan231/aamar_task/assets/81522801/3a2610c2-5b39-45f8-b674-d9b4cdd0d474](https://github.com/user-attachments/assets/a64c3a53-64ee-4825-9e78-cd54972fb3e7
 )
